@@ -6,4 +6,5 @@ import jestPlugin from "eslint-plugin-jest";
 export default [
   {languageOptions: { globals: {...globals.browser, ...globals.node, ...jestPlugin.environments.globals.globals} }},
   pluginJs.configs.recommended,
+  {ignores: ['dist/', 'coverage/']}
 ];
