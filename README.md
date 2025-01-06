@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uiuc4w2958i91jsb?svg=true)](https://ci.appveyor.com/project/keereal1/for-in)
